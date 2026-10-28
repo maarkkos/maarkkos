@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- GIF Minimalista e Dark de F1 -->
-  <img src="https://i.pinimg.com/originals/df/02/19/df0219a3fc8680d17fd446ded5f220dd.gif" alt="F1 Racing" width="800" style="border-radius: 12px;"/>
+  <!-- Imagem Estática Minimalista dos Semáforos de F1 -->
+  <img src="f1-banner.jpg" alt="F1 Starting Lights" width="800" style="border-radius: 12px;"/>
   
   <br><br>
 
