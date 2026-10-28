@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF Minimalista e Dark de F1 -->
-  <img src="https://i.pinimg.com/originals/a4/09/a6/a409a6356778fde146b9a7852a32eb2a.gif" alt="F1 Racing" width="800" style="border-radius: 12px;"/>
+  <img src="https://media.giphy.com/media/dVuugx78CUS5z91YkC/giphy.gif" alt="F1 Racing" width="800" style="border-radius: 12px;"/>
   
   <br><br>
 
@@ -38,8 +38,8 @@ No desenvolvimento de software, tal como nas pistas, acredito que **milissegundo
 *Análise de desempenho e consistência nas pistas de código.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markkos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9" height="160" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkos&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" height="160" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maarkkos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9" height="160" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarkkos&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" height="160" alt="Linguagens mais usadas"/>
 </div>
 
 ---
