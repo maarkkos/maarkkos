@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF Minimalista e Dark de F1 -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4eGNkOXN6bXA1ZXpzNnpnbzVxZjAzZHh6cW51b2FxaHN6eW00eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVuugx78CUS5z91YkC/giphy.gif" alt="F1 Racing" width="800" style="border-radius: 12px;"/>
+  <img src="https://i.pinimg.com/originals/a4/09/a6/a409a6356778fde146b9a7852a32eb2a.gif" alt="F1 Racing" width="800" style="border-radius: 12px;"/>
   
   <br><br>
 
@@ -38,8 +38,8 @@ No desenvolvimento de software, tal como nas pistas, acredito que **milissegundo
 *Análise de desempenho e consistência nas pistas de código.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9" height="160" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" height="160" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=markkos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9" height="160" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkos&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" height="160" alt="Linguagens mais usadas"/>
 </div>
 
 ---
@@ -47,5 +47,5 @@ No desenvolvimento de software, tal como nas pistas, acredito que **milissegundo
 ### 📻 Team Radio 
 *Box, box, box! Para falarmos sobre tecnologia, negócios ou o próximo Grande Prémio:*
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/marcos-vinicius-pereira-a633a6285/
-- 📧 **E-mail:** pereramarcos60@gmail.com
+- 💼 **LinkedIn:** [Marcos Vinícius Pereira](https://www.linkedin.com/in/marcos-vinicius-pereira-a633a6285/)
+- 📧 **E-mail:** [pereramarcos60@gmail.com](mailto:pereramarcos60@gmail.com)
