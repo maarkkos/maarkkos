@@ -15,7 +15,7 @@ CTO, Desenvolvedor Full-Stack e aficionado por Fórmula 1.
 No desenvolvimento de software, tal como nas pistas, acredito que **milissegundos importam**, **dados guiam a estratégia** e a **arquitetura limpa é a chave para o campeonato**. Desenho soluções com a precisão de um pit stop de 1.8 segundos.
 
 - 🏢 **Scuderia atual:** CTO na **VotrixGenex**
-- ⚙️ **Foco:** Performance, Integração de IA (LLMs) e Engenharia de Dados
+- ⚙️ **Foco:** Full-Stack focado em Python, Streamlit, LLMs e Engenharia de Dados.
 - 🚥 **Mindset:** Construir aplicações que escalam do Q1 direto para a Pole Position.
 
 ---
