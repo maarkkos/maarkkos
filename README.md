@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF Minimalista e Dark de F1 -->
-  <img src="https://media.giphy.com/media/dVuugx78CUS5z91YkC/giphy.gif" alt="F1 Racing" width="800" style="border-radius: 12px;"/>
+  <img src="https://i.pinimg.com/originals/df/02/19/df0219a3fc8680d17fd446ded5f220dd.gif" alt="F1 Racing" width="800" style="border-radius: 12px;"/>
   
   <br><br>
 
