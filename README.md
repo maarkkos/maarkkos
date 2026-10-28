@@ -47,5 +47,5 @@ No desenvolvimento de software, tal como nas pistas, acredito que **milissegundo
 ### 📻 Team Radio 
 *Box, box, box! Para falarmos sobre tecnologia, negócios ou o próximo Grande Prémio:*
 
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/marcos-vinicius-pereira-a633a6285/)(https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marcos-vinicius-pereira-a633a6285/))
-- 📧 **E-mail:** [pereramarcos60@gmail.com](mailto:pereramarcos60@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/marcos-vinicius-pereira-a633a6285/
+- 📧 **E-mail:** pereramarcos60@gmail.com](mailto:pereramarcos60@gmail.com
