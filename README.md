@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagem Estática Minimalista dos Semáforos de F1 -->
-  <img src="f1-banner.jpg" alt="F1 Starting Lights" width="800" style="border-radius: 12px;"/>
+  <img src="f1-banner.gif" alt="F1 Starting Lights" width="800" style="border-radius: 12px;"/>
   
   <br><br>
 
